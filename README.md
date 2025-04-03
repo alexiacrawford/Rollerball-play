@@ -1,4 +1,4 @@
-The link to my game:
+The link to my game (macOS):
 
 https://alexiacrawford.github.io/Rollerball-play/
 
